@@ -72,46 +72,44 @@ print("Root Mean Square Error = ",rmse)
 
 
 ### Head Values
-```
+
 ![alt text](1.png)
-```
+
 
 ### Tail Values
-```
+
 ![alt text](2.png)
 
 
-```
+
 ### Compare Dataset
-```
+
 ![alt text](3.png)
 
 
-```
+
 ### Predication values of X and Y 
-```
 ![alt text](44.png)
 
 
-```
+
 ### Training set
-```
 ![alt text](5.png)
 
 
-```
+
 ### Testing set
-```
+
 
 ![alt text](6.png)
 
 
-```
+
 ### MSE,MAE and RMSE
-```
+
 
 ![alt text](7.png)
-```
+
 
 
 ## Result:
